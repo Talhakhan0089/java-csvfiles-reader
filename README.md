@@ -1,5 +1,3 @@
-# README #
-
 ### Read CSV Files from Open University Learning Analytics Dataset (OULAD) ###
 
 # CSV files are included in the zip folder along with code, you just need to run the code in the InteliJ idea IDE.
